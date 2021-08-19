@@ -199,7 +199,13 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 }
 
 .navbar .dropdown ul li {
-  min-width: 200px;
+  min-width: 320px;
+}
+
+#dropDown {
+    margin-bottom: 0px;
+    width: 305px;
+    height: 260px;
 }
 
 .navbar .dropdown ul a {
